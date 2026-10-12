@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "552761275935",
+    "project_id": "fc-jamavaran-app",
+    "storage_bucket": "fc-jamavaran-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552761275935:android:1f2f404ea21c630259c72a",
+        "android_client_info": {
+          "package_name": "fc.jamavaran.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoupDMzq3RUiTaj93_rVwJHWVg3131tu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
